@@ -133,7 +133,5 @@ a
 1src/com/andyfys/innerclass_/InnerMemberClass.java,2\e\2e9ca8c12d064188671ecae89728b48080809ffc
 ?
 JavaAdvance.iml,3\0\3001348155cb22ec5faed6b89599255e494b52ca
-f
-6src/test/com/andyfys/collection_/HashMapTestXTest.java,d\b\db7e848b2904ba981ee4027e0bda2657fa8a3e92
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
