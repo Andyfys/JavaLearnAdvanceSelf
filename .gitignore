@@ -1,29 +1,44 @@
 # Compiled class file
 *.class
-*.lock
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Intellij
+*.ipr
+*.iml
+*.iws
+.idea/
+
+# Maven
+target/
+
+# Gradle
+build
+.gradle
+
 # Log file
 *.log
+log/
 
-# BlueJ files
-*.ctxt
+# out
+**/out/
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Mac
+.DS_Store
 
-# Package Files #
+# others
 *.jar
 *.war
-*.nar
-*.ear
 *.zip
+*.tar
 *.tar.gz
-*.rar
-*.iws
-*.ipr
+*.pid
+*.orig
+temp/
 
-# idea
-.idea/
-*.iml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
