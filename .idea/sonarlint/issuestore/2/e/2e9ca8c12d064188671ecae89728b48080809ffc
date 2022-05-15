@@ -1,0 +1,25 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "bigCat1".(ÃÉÅÀ
+S
+java:S1854"=Remove this useless assignment to local variable "pointCat2".(³Ğ˜ÿ
+X
+java:S1854"=Remove this useless assignment to local variable "pointCat1".(¦Ïöàÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¯åÖøÿÿÿÿ
+I
+java:S1481".Remove this unused "pointCat1" local variable.(¦Ïöàÿÿÿÿÿ
+D
+java:S1481".Remove this unused "pointCat2" local variable.(³Ğ˜ÿ
+B
+java:S1481",Remove this unused "bigCat1" local variable.(ÃÉÅÀ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ş±Úå
+q
+java:S4144;"VUpdate this method so that its implementation is not identical to "getUse" on line 44.(ÚÌ•Šıÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÙÀÁıÿÿÿÿ
+<
+java:S1170'"!Make this final field static too.(†¸¢¼ûÿÿÿÿ
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(Ğ·¥r
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+C
+java:S1068'"(Remove this unused "name" private field.(†¸¢¼ûÿÿÿÿ

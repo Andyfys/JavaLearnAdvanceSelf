@@ -1,0 +1,14 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÌÐù²øÿÿÿÿ
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(´î¹“
+m	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù
+o
+java:S1488#"YImmediately return this expression instead of assigning it to the temporary variable "s".(•»­Ó
+M
+java:S2589"7Remove this expression which always evaluates to "true"(ŸŠçˆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¨¸¾üùÿÿÿÿ
+L
+java:S1994"6Move the update of "j" into this loop's update clause.(ùŽüƒ
