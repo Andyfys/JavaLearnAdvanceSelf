@@ -1,14 +1,0 @@
-
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(οτ‡¥ϋÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(½¦ωÿÿÿÿ
-`
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ε‚κΛϋÿÿÿÿ
-`
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‹Β ÿÿÿÿÿ
-a	java:S116"MRename this field "PI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(πΫβ
-@
-java:S1068"*Remove this unused "radius" private field.(―ιώ
-@
-java:S1068"*Remove this unused "radius" private field.(―ιώ
-@
-java:S1068"*Remove this unused "radius" private field.(―ιώ

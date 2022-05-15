@@ -1,17 +1,0 @@
-
-Y
-java:S2583"CChange this condition so that it does not always evaluate to "true"(‡Ÿ½Ì
-Q	java:S125
-"<This block of commented-out lines of code should be removed.(ƒÂû‰
-F
-java:S2154"0Add an explicit cast to match types of operands.(‡Ÿ½Ì
-7
-java:S2129"!Remove this "Integer" constructor(‡Ÿ½Ì
-6
-java:S2129" Remove this "Double" constructor(‡Ÿ½Ì
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Áªø
-7
-java:S2129"!Remove this "Integer" constructor(‹Þ¡Ï
-;
-java:S2129" Remove this "Double" constructor(¥Ô…óúÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ó˜òÌ
