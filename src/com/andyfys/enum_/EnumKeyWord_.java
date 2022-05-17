@@ -4,6 +4,7 @@ package com.andyfys.enum_;
  * @author Andyfys
  * @version 1.0
  */
+@SuppressWarnings({"all"})
 public class EnumKeyWord_ {
     public static void main(String[] args) {
         System.out.println(Season2.SPRING);
@@ -20,6 +21,7 @@ public class EnumKeyWord_ {
         System.out.println(Season2.SPRING.compareTo(Season2.WINTER));
     }
 }
+@SuppressWarnings({"all"})
 enum Season2{
     SPRING("春天", "温暖"),
     SUMMER("夏天", "酷热"),
