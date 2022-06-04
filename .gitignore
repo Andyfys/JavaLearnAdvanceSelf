@@ -1,47 +1,29 @@
-# Compiled class file
-*.class
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
 
-# Eclipse
-.project
+### Eclipse ###
+.apt_generated
 .classpath
-.settings/
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
 
-# Intellij
-*.ipr
-*.iml
-*.iws
-.idea/
-/.idea/
-# Maven
-target/
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
 
-# Gradle
-build
-.gradle
+### VS Code ###
+.vscode/
 
-# Log file
-*.log
-log/
-
-# out
-**/out/
-
-# Mac
+### Mac OS ###
 .DS_Store
-
-# others
-*.jar
-*.war
-*.zip
-*.tar
-*.tar.gz
-*.pid
-*.orig
-temp/
-# properties
-*.properties
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
-### STS ###
